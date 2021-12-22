@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Satish Yadav</h1>
 <h3 align="center">I am front-end developer and a Programmer .I'm a passionate learner who is always willing to learn and work across technologies and domains 💡 .I'm much interested in contributing for open source.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning ***Machine Learning***
 
-- 📫 How to reach me **satish974891@gmail.com**
+- 📫 How to reach me ***satish974891@gmail.com***
 
 - ⚡ Fun fact **I love Watching and giving Reviews on web Series😆.**
 
